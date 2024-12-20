@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gokulan S
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Electronics
+- 🌱 I’m currently learning VLSI,IOT
 - 💞️ I’m looking to collaborate on my project
 - 📫 How to reach me none
 - 😄 Pronouns:Gocool
